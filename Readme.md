@@ -2,7 +2,7 @@
 
 > Author: Santhosh Umapathi
 
-_Visit [App City](https://app-city.co), for your next Digital Adventure of Web Applications and Mobile Applications._
+_Visit [Appy Mango](https://appymango.com), for your next Digital Adventure of Web Applications and Mobile Applications._
 
 ## Installation
 
